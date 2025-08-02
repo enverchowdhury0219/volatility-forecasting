@@ -12,3 +12,5 @@ Forecast next-day volatility of SPY using GARCH(1,1), compare to realized volati
 
 ## Outputs
 - Time series plot of predicted vs. realized volatility
+
+## To Be Continued
